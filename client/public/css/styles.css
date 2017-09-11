@@ -1,0 +1,54 @@
+html, body {
+   height: 100%;
+   width: 100%;
+   margin: 0;
+   padding: 0;
+ }
+ #map{
+   height: 400px;
+   width: 100%;
+ }
+
+ #fromDiv{
+   width: 50%;
+   margin-bottom: 0.5%;
+   margin-right: 0%;
+ }
+ #toDiv{
+   width: 50%;
+  margin-bottom: 0.5%;
+   margin-right: 0%;
+ }
+ #emailDiv
+ {
+   width: 50%;
+   margin-bottom: 0.5%;
+   margin-right: 0%;
+ }
+ #resDiv
+ {
+   width: 48%;
+   float: right;
+   margin-top: -193px;
+ }
+ #resDivEstimate
+ {
+   width: 48%;
+   float: right;
+   margin-top: -123px;
+ }
+#trackCode{
+  margin: 2% 2% 2% 10%;
+  width: 70%;
+}
+#resultTrack{
+  margin: 2% 2% 2% 10%;
+  width: 70%;
+}
+#trackInput{
+  margin: 2% 0 2% 0;
+}
+#getInfoBtn{
+  width: 120px;
+  height: 40px;
+}
